@@ -1,7 +1,7 @@
 # hello, world <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
   - 🧑‍🎓 I’m currently a Computer Science Student Major in Software Technology at De La Salle University
-  - 📚 I’m currently learning the MERN Stack for my Web Development Class and Verilog for my Computer Architecture Class
+  - 📚 I’m currently learning Typescript, Next.js, and Prisma for my Web Development Class, Verilog for my Computer Architecture Class, and Prolog for my Artificial Intelligence Class
   - 💫 I'm interested in Data Science, Artificial Intelligence, Machine Learning, among others
 
 ## 👨‍💻 Languages and Tools
@@ -20,9 +20,11 @@ Web Development:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
 Databases:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/prisma/prisma.png"></code>
 
 
 ## 📈 GitHub Stats
