@@ -1,7 +1,6 @@
 # hello, world <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
   - 🧑‍🎓 I’m currently a Computer Science Student Major in Software Technology at De La Salle University
-  - 📚 I’m currently learning Typescript, Next.js, and Prisma for my Web Development Class, Verilog for my Computer Architecture Class, and Prolog for my Artificial Intelligence Class
   - 💫 I'm interested in Data Science, Artificial Intelligence, Machine Learning, among others
 
 ## 👨‍💻 Languages and Tools
