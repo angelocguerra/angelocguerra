@@ -1,6 +1,6 @@
 # hello, world <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
-  - 🧑‍🎓 I’m currently a Computer Science Student Major in Software Technology at De La Salle University
+  - 🧑‍🎓 I’m currently a Computer Science Student Major in Software Technology Minor in Data Science at De La Salle University
   - 💫 I'm interested in Data Science, Artificial Intelligence, and Machine Learning, among others
 
 ## 👨‍💻 Languages and Tools
