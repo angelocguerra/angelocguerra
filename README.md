@@ -15,7 +15,6 @@
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg"></code>
-<code><img height="20" src=""></code>
 
 **Frameworks/Libraries/Environments:**
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"></code>
