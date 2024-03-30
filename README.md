@@ -46,10 +46,10 @@
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
 
 ## 📈 GitHub Stats
-<a href="https://github.com/angelocguerra/angelocguerra">
+<a href="https://github.com/angelocguerra">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelocguerra&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-<a href="https://github.com/angelocguerra/angelocguerra">
+<a href="https://github.com/angelocguerra">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=angelocguerra&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Angelo's GitHub Stats" />
 </a>
