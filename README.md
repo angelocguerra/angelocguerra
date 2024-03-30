@@ -8,6 +8,8 @@
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg"></code>
@@ -23,19 +25,25 @@
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg"></code>
 
 **Databases:**
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg"></code>
 
-**Others**
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"></code>
-
-**Tools**
+**Tools:**
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/WebStorm-Dark.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Anaconda-Dark.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
 
 ## 📈 GitHub Stats
 <a href="https://github.com/angelocguerra/angelocguerra">
