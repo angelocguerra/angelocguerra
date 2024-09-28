@@ -6,6 +6,7 @@
 ## 👨‍💻 Languages and Tools
 **Programming:**
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
