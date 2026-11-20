@@ -1,7 +1,7 @@
 # hello, world <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
   - 📈 I'm a Business Intelligence Analyst for ShopeeFood
-  - 🧑‍🎓 I’m a Computer Science Graudate Major in Software Technology Minor in Data Science at De La Salle University
+  - 🧑‍🎓 I’m a Computer Science Graduate Major in Software Technology Minor in Data Science at De La Salle University
   - 💫 I'm interested in Data Science, Artificial Intelligence, and Machine Learning, among others
 
 ## 👨‍💻 Languages and Tools
